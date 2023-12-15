@@ -12,7 +12,7 @@ Welcome to Pramod Koujalagi's Bank ATM project! This simple Java application all
 2. Navigate to the project directory.
    
     ```bash
-      cd ATM-Project-Java
+      cd path/ATM-Project-Java
 
 3. Open the project in your favorite Java IDE or compile and run it from the command line.
 
